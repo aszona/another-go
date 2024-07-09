@@ -1,8 +1,8 @@
 # another-go
 learning how to use this
-I am guessing that sooner or later I will actually learn how to use git-hub.
+I am guessing that sooner or later I'll actually learn how to use git-hub.
 
-Why are all these lines running together?
+Why are lines running together?
 
 Now I added a second line feed.
 
